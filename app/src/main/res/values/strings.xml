@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTestAudio</string>
+
+    <string name="status">Ready</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttRec">запись</string>
+    <string name="buttPlay">воспроизведение</string>
+</resources>
